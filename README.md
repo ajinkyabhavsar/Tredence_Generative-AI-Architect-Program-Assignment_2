@@ -17,6 +17,7 @@ Learners can enter their background, completed courses, and interests to receive
 
 ## Project Structure
 .
+
 ├── app.py # Main Streamlit app
 
 ├── Dataset.csv # Sample dataset (auto-created if missing)
