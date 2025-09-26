@@ -37,11 +37,13 @@ Learners can enter their background, completed courses, and interests to receive
 
 2. Install dependencies:
 bash
-pip install -r requirements.txt
 
-3. Usage
+`pip install -r requirements.txt`
+
+4. Usage
 Run the Streamlit app:
 bash
-streamlit run app.py
+
+`streamlit run app.py`
 
 Open the link shown in the terminal (usually http://localhost:8501) in your browser.
